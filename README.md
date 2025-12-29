@@ -45,7 +45,7 @@ Design Principles
 - Reusable utilities: similarity algorithms work with any text dataset
 - Zero external frameworks: built using plain HTML, CSS, and JavaScript
 
-Module Structure
+# Module Structure
 ├── index.html # Main layout & input interface
 ├── css/
 │ └── style.css # Styling, layout, and responsiveness
